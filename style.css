@@ -113,7 +113,25 @@ h3 {
 .hero__box-img {
   animation: ava-bg 3s infinite alternate;
 }
+.logocompanyes{
+  justify-content: right;
+  max-width: 200px;
+  margin: 5px auto 0px;
+}
+.block{
+  border: 0px solid;
+  max-width: 800px;
+  margin: 0px auto;
+  height: 800px;
+}
+.block div{
+  line-height: 50px;
+  font-size: 18px;
+  text-align: left;
+}
+.block__1{
 
+}
 @media screen and (max-width: 978px) {
   .hero {
     padding-top: 30px;
